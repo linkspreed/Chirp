@@ -18,8 +18,6 @@
 - [Added] ability to see is or your follower
 - [Added] ability see shared followers between two users
 - [Added] new options to user gender
-- [Added] ability to disable the swift system from the admin panel
-- [Added] ability to disable email notifications from the admin panel
 - [Fixed] bug with storing the selected language
 - [Fixed] bug with the generation of extra sitemaps
 - [Fixed] bug with a negative number of followers
@@ -30,11 +28,8 @@
 # V1.2.8 (22 NOV 2021)
 - [Added] E-mail notifications system
 - [Added] Google ReCaptcha
-- [Added] User verification option for Admin
-- [Added] User wallet editing option for Admin
 - [Added] Share to WhatsApp option
 - [Added] Share to telegram option
-- [Improved] Admin panel
 - [Improved] Removed unnecessary libraries
 - [Fixed] Previous minor bugs.
 
@@ -42,10 +37,8 @@
 - [Added] Option to disable user registration system
 - [Added] Option to disable the cookie warning window
 - [Added] Registration of the invited user
-- [Added] Option to manage UI languages in the admin panel
 - [Added] Arabic language
 - [Added] RTL languages support
-- [Improved] Admin panel
 - [Fixed] Previous minor bugs
 
 # V1.2.6 (02 SEP 2021)
@@ -76,9 +69,6 @@
 - [Fixed] Previous minor bugs
 
 # V1.2.1 (28 JUNE 2021)
-- [Added] Amazon S3 storage (Admin panel)
-- [Added] Media upload limit (Admin panel)
-- [Added] Ability to add multiple admins (Admin panel)
 - [Added] Header top fix on page scroll
 - [Added] E-mail verification system
 - [Added] Username hover popoever
@@ -102,7 +92,6 @@
 - [Improved] Design
 - [Added] Mention of autocomplete
 - [Added] Hashtags of autocomplete
-- [Updated] Admin panel (Added page update interverl settings)
 - [Fixed] Previous minor bugs
 - And more minor improvements in the system
 
@@ -124,7 +113,6 @@
 - And more minor improvements in the system
 
 # V1.1.3 (24 FEB 2021)
-- [Added] Google Ads System for Admin
 - [Updated] API
 - [Added] oAuth login disable/enable system
 - [Added] New welcome page
@@ -132,7 +120,6 @@
 - [Added] Publication reporting system
 - [Added] Live homepage feed updating system
 - [Added] Post soft hidding system
-- [Added] And also many other improvements in the admin panel and in the core of the script
 - [Fixed] Follower counting errors after blocking
 - [Fixed] Thumbnail error for short videos
 - [Fixed] Bug with Timezone
@@ -144,7 +131,6 @@
 - [Fixed] Shortcomings with dark theme on mobile and web devices
 
 # V1.1.1 (03 FEB 2021)
-- [Added] The ability to switch UI themes from admin panel (if any)
 - [Added] The ability to play Vimeo videos without leaving the page
 - [Added] Google Maps URL lightbox preview (embed in iFrame)
 - [Improved] Links (URLs) preview system
@@ -160,7 +146,6 @@
 - [Fixed] bugs with user removal system
 
 # V1.0.8 (04 JAN 2021)
-- [Added] Controlling the length of post characters from the admin panel (600 / or arbitrary)
 - [Added] System of notification settings
 - [Added] API endpoints
 - [Enabled] Login with username
@@ -171,8 +156,6 @@
 - [Added] Polls system
 - [Added] Video lightbox system
 - [Added] Swifts system (User stories system)
-- [Added] Admin ads management system
-- [Added] Ad page view system (For admin)
 - [Added] Follow privacy system (Who can follow me)
 - [Added] GDRP system (Import my information)
 - [Improved] Pages loading speed
@@ -200,7 +183,6 @@
 # V1.0.5 (22 JULY 2020)
 - [Added] User verification system
 - [Added] Registration confirmation system
-- [Added] User ban by admin system
 - [Added] User privacy system
 - [Added] Welcome page for guests
 - [Added] Media files (Images, Videos) lazy loading system
