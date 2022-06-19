@@ -74,10 +74,10 @@ Chirp is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/
 ### Welcome :)
 <img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/1.PNG" draggable="false" />
 
-### News Feed
+### Timeline
 <img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/2.PNG" draggable="false" />
 
-### Profile
+### Settings
 <img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Chats
@@ -86,5 +86,5 @@ Chirp is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/
 ### Dark Mode
 <img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/5.PNG" draggable="false" />
 
-### General Settings
+### Profile
 <img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/6.PNG" draggable="false" />
