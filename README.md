@@ -1,10 +1,10 @@
 # <img align="left" alt="Chirp" width="100px" src="https://chirp.ga/themes/default/statics/img/logo.png" draggable="false" /> Chirp ([Click to try 🚀](https://chirp.ga/))
 
-Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social network 🌱that is oriented towards the future✨
+Chirp🧡🦗 is a place where you can freely express your opinion🔥 in the form of short texts or images. Be free and open in a network 📱that is always up to date.
 
 
-## **[Changelog 🧡](https://github.com/linkspreed/linkspreed.com/blob/main/changelog.md)** **Check out the full Linkspreed changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/linkspreed.com/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Linkspreed besides development**
+## **[Changelog 🦗](https://github.com/linkspreed/Chirp/blob/main/changelog.md)** **Check out the full Chirp changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Chirp/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Chirp besides development**
 
 
 <div align="center">
@@ -14,28 +14,46 @@ Linkspreed 🧡 - the heart and core of our projects 🚀- the largest social ne
 
 ## Features
 
-- Anonymous and safe
-- Fast and easy to use
-- easy to get in touch with people
-- talk freely and openly with other people about specific content and topics
-- share whatever moves you
-- an intelligent messenger
-- 24 hour stories to capture short-term events
-- Live videos
-- call friends and stay in contact
+- Responsive & Beautiful and modern design
+- Upload images & videos from your device
+- Import GIFs from internet
+- Chat system
+- Day & Night modes
+- Notifications system
+- Like & Comment system
+- Post sharing & reposting system
+- Polls system
+- Youtube & Vimeo Embed system
+- Google maps Embed system
+- Swifts system (User stories)
+- SPA page load system
+- Ads system
+- Affiliate system
+- Voice recorder
+- User report system
+- Publication report system
+- Publication hiding system
+- User Block/Unblock system
+- Bookmarks system
+- User profile system
+- Profile privacy system
+- Post privacy system
+- Follow privacy system
+- Follow/Unfollow system
+- Emoji system
+- Multi language system
+- GDPR Compliance
+- SEO friendly optimization
+- oAuth login system
 **AND SO MUCH MORE ...**
 
 ## More
  
-**Linkspreed** was developed for you. 
-Are you creative, 
-like to laugh or just 
-want to start the day relaxed? 
-Linkspreed is a social network where millions of users share their best moments, 
-show off their creativity and 
-put a smile on other people's faces.
+**Chirp** was developed for you. 
+🧡🦗It is a place where you can freely express
+your opinion🔥 in the form of short texts or images.
 
-Linkspreed is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
+Chirp is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/).
 
  ```php
     We make sure that our code 
