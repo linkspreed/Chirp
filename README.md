@@ -45,7 +45,7 @@ Chirp🧡🦗 is a place where you can freely express your opinion🔥 in the fo
 - GDPR Compliance
 - SEO friendly optimization
 - oAuth login system
-**AND SO MUCH MORE ...**
+- **AND SO MUCH MORE ...**
 
 ## More
  
@@ -63,28 +63,28 @@ Chirp is developed and provided by [Linkspreed 🚀](https://www.linkspreed.com/
 
  ```txt
    We will soon be presenting
-   Linkspreed's API here on GitHub
+   Chirp's API here on GitHub
    as well :)
 ```
- Register now on Linkspreed and immerse yourself in a network with no limits to creativity.
+ Register now on Chirp and immerse yourself in a network with no limits to speech.
 
 ## 📷 UI
 
 
 ### Welcome :)
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### News Feed
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/2.PNG" draggable="false" />
 
 ### Profile
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Chats
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/4.PNG" draggable="false" />
 
 ### Dark Mode
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/5.PNG" draggable="false" />
 
 ### General Settings
-<img align="center" alt="Linkspreed" width="3000px" src="https://github.com/linkspreed/linkspreed.com/blob/main/Screenshots/6.PNG" draggable="false" />
+<img align="center" alt="Chirp" width="3000px" src="https://github.com/linkspreed/Chirp/blob/main/Screenshots/6.PNG" draggable="false" />
