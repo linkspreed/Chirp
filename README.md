@@ -1,4 +1,4 @@
-# <img align="left" alt="Chirp" width="100px" src="https://chirp.ga/themes/default/statics/img/logo.png" draggable="false" /> Chirp ([Click to try 🚀](https://chirp.ga/))
+# <img align="left" alt="Chirp" width="100px" src="https://chirp.linkspreed.com/themes/default/statics/img/logo.png" draggable="false" /> Chirp ([Click to try 🚀](https://chirp.linkspreed.com/))
 
 Chirp🧡🦗 is a place where you can freely express your opinion🔥 in the form of short texts or images. Be free and open in a network 📱that is always up to date.
 
